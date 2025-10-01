@@ -33,7 +33,7 @@ function Form() {
   return (
     <>
       <div className="container mt-5">
-        <h1 className="text-center text-primary mb-4">Form</h1>
+        <h1 className="text-center text-primary mb-4">course registration Form</h1>
         
         <Box component="form" noValidate autoComplete="off">
           <div className="row g-3">
@@ -98,3 +98,4 @@ function Form() {
 }
 
 export default Form
+
